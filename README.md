@@ -27,8 +27,9 @@
 
 ### 🧠 Projets récents
 
+- 🏋️ **Mentor Gym Fitness** – Application mobile de coaching sportif : suivi, programmes, vidéos et gestion client (React Native)
 - 🦸‍♂️ **HeroTrackr** – Moteur de recherche et fiches héros (API SuperHero)
-- 💼 Portfolio Lio-Dev – Site personnel développé avec Next.js pour présenter mon profil, mes projets et me contacter
+- 💼 **Portfolio Lio-Dev** – Site personnel développé avec Next.js pour présenter mon profil, mes projets et me contacter
 - 🐺 **Site vitrine Musher** – Application sur-mesure (Frontend + Backoffice)
 
 ---
@@ -91,8 +92,9 @@ _Sobre, rigoureux et toujours en quête de progrès._
 
 ### 🧠 Recent Projects
 
+- 🏋️ **Mentor Gym Fitness** – Mobile coaching app: tracking, programs, videos & client management (React Native)
 - 🦸‍♂️ **HeroTrackr** – Superhero search engine & profiles (SuperHero API)
-- 💼 Lio-Dev Portfolio – Personal website built with Next.js to showcase my profile, projects and contact
+- 💼 **Lio-Dev Portfolio** – Personal website built with Next.js to showcase my profile, projects and contact
 - 🐺 **Musher Website** – Custom static site with admin dashboard & API
 
 ---
