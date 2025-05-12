@@ -21,7 +21,6 @@
 
 🎓 **Diplômé** : Concepteur Développeur d’Applications Web & Mobile (RNCP niveau 6)  
 📚 **Formation à venir** : Master IA & Big Data (Octobre 2025)  
-🛠️ **Stack principale** : `React` | `Next.js` | `React Native` | `Node.js` | `MongoDB`  
 🔐 **Focus actuel** : Développement de projets fullstack pour m'exercer et autoformation continue sur Python.
 
 ---
@@ -85,8 +84,7 @@ _Sobre, rigoureux et toujours en quête de progrès._
 ---
 
 🎓 **Graduate**: Full-Stack Web & Mobile Developer (French RNCP Level 6)  
-🎯 **Next goal**: Starting a Master's in AI & Big Data (Oct 2025)  
-🧰 **Main stack**: `React` | `Next.js` | `React Native` | `Node.js` | `MongoDB`  
+🎯 **Next goal**: Starting a Master's in AI & Big Data (Oct 2025)   
 🔐 **Current focus**: Building fullstack projects to practice and continuously self-learning Python.
 
 ---
@@ -99,7 +97,7 @@ _Sobre, rigoureux et toujours en quête de progrès._
 
 ---
 
-<h2 align="center">🛠️ Stack principale & Outils</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
