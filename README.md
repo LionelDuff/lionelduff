@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Lionel</h1>
-<h3 align="center">Développeur Web & Mobile | En reconversion | Passionné par le code</h3>
+<h3 align="center">Développeur Web & Mobile | Passionné par le code</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lionel-dufour-00b85189/" target="_blank">
@@ -20,17 +20,17 @@
 ---
 
 🎓 **Diplômé** : Concepteur Développeur d’Applications Web & Mobile (RNCP niveau 6)  
-📚 **Formation à venir** : Master IA & Big Data (Octobre 2025)  
+📚 **Formation à venir** : Master IA & Big Data (Décembre 2025)  
 🔐 **Focus actuel** : Développement de projets fullstack pour m'exercer et autoformation continue sur Python.
 
 ---
 
 ### 🧠 Projets récents
 
-- 🏋️ **Mentor Gym Fitness** – Application mobile de coaching sportif : suivi, programmes, vidéos et gestion client (React Native)
+- 🏋️ **Mentor Gym Fitness** – Application mobile de coaching sportif : suivi, programmes, vidéos et gestion client
 - 🦸‍♂️ **HeroTrackr** – Moteur de recherche et fiches héros (API SuperHero)
 - 💼 **Portfolio Lio-Dev** – Site personnel développé avec Next.js pour présenter mon profil, mes projets et me contacter
-- 🐺 **Site vitrine Musher** – Application sur-mesure (Frontend + Backoffice)
+- 📦 **InvenTree** – Interface de gestion de stock avec filtrage, tri et mise à jour des produits (API DummyJSON)
 
 ---
 
@@ -68,7 +68,7 @@ _Sobre, rigoureux et toujours en quête de progrès._
 <br />
 
 <h1 align="center">Hi 👋, I'm Lionel</h1>
-<h3 align="center">Web & Mobile Developer | Career Switcher | Passionate about Code</h3>
+<h3 align="center">Web & Mobile Developer | Passionate about Code</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lionel-dufour-00b85189/" target="_blank">
@@ -85,7 +85,7 @@ _Sobre, rigoureux et toujours en quête de progrès._
 ---
 
 🎓 **Graduate**: Full-Stack Web & Mobile Developer (French RNCP Level 6)  
-🎯 **Next goal**: Starting a Master's in AI & Big Data (Oct 2025)   
+🎯 **Next goal**: Starting a Master's in AI & Big Data (Dec 2025)   
 🔐 **Current focus**: Building fullstack projects to practice and continuously self-learning Python.
 
 ---
@@ -95,7 +95,7 @@ _Sobre, rigoureux et toujours en quête de progrès._
 - 🏋️ **Mentor Gym Fitness** – Mobile coaching app: tracking, programs, videos & client management (React Native)
 - 🦸‍♂️ **HeroTrackr** – Superhero search engine & profiles (SuperHero API)
 - 💼 **Lio-Dev Portfolio** – Personal website built with Next.js to showcase my profile, projects and contact
-- 🐺 **Musher Website** – Custom static site with admin dashboard & API
+- 📦 **InvenTree** – Inventory management interface with filtering, sorting, and product updates (API DummyJSON)
 
 ---
 
